@@ -4,7 +4,7 @@
 
 ## This script expects the household power consumption file to already have been 
 ## installed in working directory.  If not it produces an error.  If the file is 
-## in place and has the expected format, then this script produces the "plot1.png"
+## in place and has the expected format, then this script produces the "plot4.png"
 ## figure showing frequency of Global Active Power for the specified days. 
 
 ## some very basic error handling:  just make sure file placed in expected location
